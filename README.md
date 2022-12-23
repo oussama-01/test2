@@ -1,5 +1,4 @@
 # test2
 
-hello odin yoyo!
+This is a file present when we create a repository in GitHub !
 
-What is this file i am in ?!
