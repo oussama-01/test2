@@ -1,3 +1,6 @@
 
 
 we renaem the files in cli with mv (move)
+
+
+I hav eto read how to write a good commit msg.
