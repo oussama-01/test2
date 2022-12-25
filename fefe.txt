@@ -1,5 +1,3 @@
 
 
-Hi 
-hello
-good morning!
+we renaem the files in cli with mv (move)
