@@ -3,3 +3,16 @@
 
 
 What is following in github !!
+
+
+Follwers following
+can i write everything i want in what i cpush..
+
+
+The seven rules of good commit messages ae:
+
+separate body from subject line
+
+capitalise the firstletter of sl
+
+reduce it to 5chararcters
