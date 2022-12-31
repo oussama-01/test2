@@ -1,18 +1,9 @@
 
+#what does a hashtag do ...
 
+I deleted text.
 
+The Cli is short for Command line interface
 
-What is following in github !!
+What is the kernel 
 
-
-Follwers following
-can i write everything i want in what i cpush..
-
-
-The seven rules of good commit messages ae:
-
-separate body from subject line
-
-capitalise the firstletter of sl
-
-reduce it to 5chararcters
