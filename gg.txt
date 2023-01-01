@@ -5,5 +5,10 @@ I deleted text.
 
 The Cli is short for Command line interface
 
-What is the kernel 
+
+I deleted line 8 above.
+
+Apparently lines are conted in GitHub.
+Don't forget taht there are seven rules for a good commit message.
+1- Separate the body from the subject line with blank line.
 
