@@ -1,9 +1,8 @@
 # test2
-
+# What is this readme.md file
 
 The hashtag above contain the name of the repository.
 
 
-The hashtag makes the text bigger in GitHub.
 
-What is the latest version of Ubuntu.
+GitHub is a service for sharing and collab on code
