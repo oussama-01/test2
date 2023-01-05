@@ -1,7 +1,6 @@
 
 #I am in a txt file
-
-
+# The hashtag in this file do nothing compared to .md file
 gg as file name is no descriptive
 
 What are th files tath a typical project will have.
