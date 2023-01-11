@@ -1,17 +1,6 @@
 
 
-/* below is a rule */
-.classname { /* Dclaration block */
-    /* Declarations */
-property:value;
 
 
-}
-/*I am in the 10th line*/
 
-selector {
-    property:value;
-
-
-    
-}
+/* This is a CSS file */
