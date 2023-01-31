@@ -1,4 +1,0 @@
-
-What are the file types that we can upload to GitHub.
-
-Apparently .txt files are good.
